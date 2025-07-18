@@ -1,3 +1,3 @@
 # EEPROM BR93L56FW GPIO based SPI driver
 
-Currently the read and write tests pass, the erase function is not yet complete.
+This is an early test version and will no longer be updated.
